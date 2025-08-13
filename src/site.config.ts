@@ -15,8 +15,8 @@ export const siteConfig: SiteConfig = {
 	},
 	// Used as the default description meta property and webmanifest description
 	description: "Writing down stuff I think I want to remember at some later point in life.",
-	lang: "en-GB",
-	ogLocale: "en_GB",
+	lang: "en-US",
+	ogLocale: "en_US",
 	title: "Journal",
 	url: "https://brurberg.org/",
 };
@@ -31,10 +31,6 @@ export const menuLinks: { path: string; title: string }[] = [
 		path: "/tech-log/",
 		title: "Tech Log",
 	},
-	{
-		path: "/training-log/",
-		title: "Training Log",
-	}
 ];
 
 // https://expressive-code.com/reference/configuration/
