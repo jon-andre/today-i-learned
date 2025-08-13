@@ -18,7 +18,7 @@ export const siteConfig: SiteConfig = {
 	lang: "en-US",
 	ogLocale: "en_US",
 	title: "Journal",
-	url: "https://jon-andre.github.io",
+	url: "https://brurberg.org",
 };
 
 // Used to generate links in both the Header & Footer.
